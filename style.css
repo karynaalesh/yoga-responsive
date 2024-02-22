@@ -109,3 +109,6 @@ p {
 .contact-me {
   font-size: 40px;
 }
+.mt-5 {
+  color: var(--primary-color);
+}
